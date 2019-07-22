@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a basic overview of how to perform a Data Analysis using APIs. In our case, the project uses the  income distribution of different countries in the world. This infomation is accessible though their link[data helpdesk worldbank](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589-developer-information).Our partical API is accesses using the API[Country Queries endpoint](http://api.worldbank.org/v2/countries) to request the data.
+This project is a basic overview of how to perform a Data Analysis using APIs. In our case, the project uses the  income distribution of different countries in the world. This infomation is accessible though their link [data helpdesk worldbank](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589-developer-information).Our partical API is accesses using the API [Country Queries endpoint](http://api.worldbank.org/v2/countries) to request the data.
 
 ## Technology Used
 
@@ -20,7 +20,7 @@ This project is a basic overview of how to perform a Data Analysis using APIs. I
 
 ## Run the server
 
-1. Next is to start the server with the command python run.py.
+1. Next is to start the server with the command python app.py.
 2. The server should be running on [localhost](http://127.0.0.1:5000)
 
 ## API Endpoints
