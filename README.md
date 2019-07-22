@@ -14,7 +14,7 @@ This project is a basic overview of how to perform a Data Analysis using APIs. I
 
 ## Installation and set-up
 
-1. Clone the project - git@github.com:bafiam/iRepoter-api.git
+1. Clone the project - git clone <https://github.com/bafiam/world-bank-api.git>
 2. create a virtual environment using virtualenv.
 3. Install the dependencies - pip install -r requirements.txt.
 
